@@ -70,7 +70,7 @@ Content-Type: application/json
 Content-length: 122
 
 {
-    "parameters" [{
+    "parameters": [{
       "subjects": [{
           "objectId": "9bb0f679-a883-4a6f-8260-35b491b8b8c8",
           "objectType": "User"
